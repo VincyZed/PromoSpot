@@ -18,6 +18,7 @@ More features may come in the future, stay tuned.
 ## Requirements
 
 - Node.js
+- A premium Spotify account
 
 ## API Access Token Setup
 
